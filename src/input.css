@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grad{
+  background: radial-gradient(white, gray);
+}
+
+.headerGrad{
+  background: radial-gradient(lightgray,white);
+}
+
+.btnGrad{
+  background: radial-gradient(yellow, blue);
+}
